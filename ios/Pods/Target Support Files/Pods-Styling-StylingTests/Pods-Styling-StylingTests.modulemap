@@ -1,0 +1,6 @@
+module Pods_Styling_StylingTests {
+  umbrella header "Pods-Styling-StylingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

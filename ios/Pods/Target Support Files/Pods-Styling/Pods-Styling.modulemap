@@ -1,0 +1,6 @@
+module Pods_Styling {
+  umbrella header "Pods-Styling-umbrella.h"
+
+  export *
+  module * { export * }
+}
